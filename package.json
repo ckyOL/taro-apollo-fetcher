@@ -1,0 +1,22 @@
+{
+  "name": "taro-apollo-fetcher",
+  "version": "1.0.0",
+  "description": "Apollo client fetcher for Taro",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckyOL/taro-apollo-fetcher.git"
+  },
+  "keywords": [
+    "Taro",
+    "Apollo"
+  ],
+  "author": "ckyOL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ckyOL/taro-apollo-fetcher/issues"
+  },
+  "homepage": "https://github.com/ckyOL/taro-apollo-fetcher"
+}
